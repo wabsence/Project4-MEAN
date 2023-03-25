@@ -97,7 +97,7 @@
 #### Terminal Output
 ![Add_Book](images/terminalOutput2.png "Add Book")
 
-![View_Record](images/Output5.png "View Reord")
+![View_Record](images/output5.png "View Reord")
 
 
 
