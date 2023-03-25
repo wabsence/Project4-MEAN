@@ -89,7 +89,7 @@
 
 ![Add_Book](images/terminalOutput.png "Add Book")
 
-![View_Record](images/Output3.png "View Reord")
+![View_Record](images/output3.png "View Reord")
 
 #### Add a new book
 ![Add_Book](images/output4.png "Add Book")
